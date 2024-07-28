@@ -79,7 +79,7 @@ $(document).ready(function () {
 
   $(function () {
     typed.typed({
-      strings: ["SELL All animal Feeds", "Train New Animal Farmers", "Sell Tubers!"],
+      strings: ["Manufacture animal feed", "meet all nutritional requirements for all farm animals"],
       typeSpeed: 100,
       loop: true,
     });
